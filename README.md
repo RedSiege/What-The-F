@@ -1,4 +1,9 @@
-# HostingCLR
-Executing a .NET Assembly from C++ in Memory (CLR Hosting)
+# What The F#
 
-[![C++ - Hosting CLR and Executing .NET Assembly in Memory](https://i.ytimg.com/vi/pCRBpkze1Ek/hqdefault.jpg)](https://www.youtube.com/watch?v=pCRBpkze1Ek "C++ - Hosting CLR and Executing .NET Assembly in Memory")
+This repo is a collection of a variety of F# scripts that can be utilized on assessments.
+
+Some of the code within this project includes:
+
+* UnmanagedFSharp - A method to execute F# code within an unmanaged process
+* Shellcode Loaders - Various F# scripts that inject shellcode into memory utilizing multiple techniques
+* Evasions - Different scripts that port existing C# evasion techniques to F#
