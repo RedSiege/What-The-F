@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\FSharpLoaderPOC-main2\FSharpLoaderPOC-main\HostingCLR-master\HostingCLR\Release\HostingCLR.vcxprojAssemblyReference.cache
+Z:\Coding\UnmanagedFSharp\HostingCLR\Release\HostingCLR.vcxprojAssemblyReference.cache

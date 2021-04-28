@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+Z:\Coding\UnmanagedFSharp\HostingCLR\stdafx.h(34,1): warning C4279: 'value': identifier in type library 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.tlb' is a keyword; use the 'rename' qualifier
+  HostingCLR.cpp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  HostingCLR.vcxproj -> Z:\Coding\UnmanagedFSharp\Release\HostingCLR.exe
