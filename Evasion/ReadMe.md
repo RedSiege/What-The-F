@@ -2,4 +2,4 @@
 
 ## Evasion
 
-This directory contains a few different POC scripts that demonstrate how to use common evasion techniques from C# within F#
+This directory contains a two POC scripts that demonstrate how to use common C# evasion techniques in F#.
